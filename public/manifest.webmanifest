@@ -1,0 +1,14 @@
+{
+  "name": "巨婴系统 · 校园行动台",
+  "short_name": "巨婴系统",
+  "description": "Big Baby campus action desk",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6faf7",
+  "theme_color": "#f6faf7",
+  "icons": [
+    {"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
